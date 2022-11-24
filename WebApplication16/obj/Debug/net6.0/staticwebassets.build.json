@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "whCvcszYJt2099gTDrfUvIyqfJboaWcFIs8zxLDVYIc=",
+  "Source": "TOTP",
+  "BasePath": "_content/TOTP",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

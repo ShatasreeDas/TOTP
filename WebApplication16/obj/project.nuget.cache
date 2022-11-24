@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "kR9fqOYb0Zy8qmi6yO/6izY/XylwHrJ3XHk5DGg/y/ufZf3KghY9Qs60ygxwbV9r/LERLfJ/DRVOdPHf5/LsUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Shatasree Das\\source\\repos\\WebApplication16\\WebApplication16\\TOTP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shatasree Das\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Shatasree Das\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Shatasree Das\\.nuget\\packages\\otp.net\\1.2.2\\otp.net.1.2.2.nupkg.sha512",
+    "C:\\Users\\Shatasree Das\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Shatasree Das\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Shatasree Das\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Shatasree Das\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
